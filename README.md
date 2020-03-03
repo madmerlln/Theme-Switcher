@@ -1,6 +1,6 @@
 # REACT THEME SWITCHER
 
-- Theme switcher system with: 
+Theme switcher system with: 
 - [Context API](https://pt-br.reactjs.org/docs/context.html)
 - [Styled Components](https://styled-components.com/)
 
