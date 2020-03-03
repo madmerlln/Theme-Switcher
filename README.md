@@ -6,8 +6,8 @@ Theme switcher system with:
 
 ## Getting Started
 
-To install this app run `yarn install` or `npm install`
-To start, run `yarn start` or `npm start`
+- To install this app run `yarn install` or `npm install`
+- To start, run `yarn start` or `npm start`
 
 ## Authors
 
